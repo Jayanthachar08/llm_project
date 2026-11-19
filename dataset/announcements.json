@@ -1,0 +1,2442 @@
+[
+  {
+    "announcement_id": "CAAD_ASSIGN_001",
+    "announcement_text": "Assignment 1: Write SQL queries for relational schema and normalize up to BCNF. Submit hardcopy and PDF report before November 11, 2026.",
+    "source_type": "text",
+    "expected_tasks": [
+      "DBMS Assignment 1"
+    ],
+    "expected_subjects": [
+      "DBMS"
+    ],
+    "expected_categories": [
+      "assignment"
+    ],
+    "expected_deadlines": [
+      "November 11, 2026"
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Submit before deadline"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_ASSIGN_002",
+    "announcement_text": "Assignment 2: Write SQL queries for relational schema and normalize up to BCNF. Submit hardcopy and PDF report before November 12, 2026.",
+    "source_type": "text",
+    "expected_tasks": [
+      "DBMS Assignment 2"
+    ],
+    "expected_subjects": [
+      "DBMS"
+    ],
+    "expected_categories": [
+      "assignment"
+    ],
+    "expected_deadlines": [
+      "November 12, 2026"
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Submit before deadline"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_ASSIGN_003",
+    "announcement_text": "Assignment 3: Write SQL queries for relational schema and normalize up to BCNF. Submit hardcopy and PDF report before November 13, 2026.",
+    "source_type": "text",
+    "expected_tasks": [
+      "DBMS Assignment 3"
+    ],
+    "expected_subjects": [
+      "DBMS"
+    ],
+    "expected_categories": [
+      "assignment"
+    ],
+    "expected_deadlines": [
+      "November 13, 2026"
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Submit before deadline"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_ASSIGN_004",
+    "announcement_text": "Assignment 4: Write SQL queries for relational schema and normalize up to BCNF. Submit hardcopy and PDF report before November 14, 2026.",
+    "source_type": "text",
+    "expected_tasks": [
+      "DBMS Assignment 4"
+    ],
+    "expected_subjects": [
+      "DBMS"
+    ],
+    "expected_categories": [
+      "assignment"
+    ],
+    "expected_deadlines": [
+      "November 14, 2026"
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Submit before deadline"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_ASSIGN_005",
+    "announcement_text": "Assignment 5: Write SQL queries for relational schema and normalize up to BCNF. Submit hardcopy and PDF report before November 15, 2026.",
+    "source_type": "text",
+    "expected_tasks": [
+      "DBMS Assignment 5"
+    ],
+    "expected_subjects": [
+      "DBMS"
+    ],
+    "expected_categories": [
+      "assignment"
+    ],
+    "expected_deadlines": [
+      "November 15, 2026"
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Submit before deadline"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_ASSIGN_006",
+    "announcement_text": "Assignment 6: Write SQL queries for relational schema and normalize up to BCNF. Submit hardcopy and PDF report before November 16, 2026.",
+    "source_type": "text",
+    "expected_tasks": [
+      "DBMS Assignment 6"
+    ],
+    "expected_subjects": [
+      "DBMS"
+    ],
+    "expected_categories": [
+      "assignment"
+    ],
+    "expected_deadlines": [
+      "November 16, 2026"
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Submit before deadline"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_ASSIGN_007",
+    "announcement_text": "Assignment 7: Write SQL queries for relational schema and normalize up to BCNF. Submit hardcopy and PDF report before November 17, 2026.",
+    "source_type": "text",
+    "expected_tasks": [
+      "DBMS Assignment 7"
+    ],
+    "expected_subjects": [
+      "DBMS"
+    ],
+    "expected_categories": [
+      "assignment"
+    ],
+    "expected_deadlines": [
+      "November 17, 2026"
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Submit before deadline"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_ASSIGN_008",
+    "announcement_text": "Assignment 8: Write SQL queries for relational schema and normalize up to BCNF. Submit hardcopy and PDF report before November 18, 2026.",
+    "source_type": "text",
+    "expected_tasks": [
+      "DBMS Assignment 8"
+    ],
+    "expected_subjects": [
+      "DBMS"
+    ],
+    "expected_categories": [
+      "assignment"
+    ],
+    "expected_deadlines": [
+      "November 18, 2026"
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Submit before deadline"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_ASSIGN_009",
+    "announcement_text": "Assignment 9: Write SQL queries for relational schema and normalize up to BCNF. Submit hardcopy and PDF report before November 19, 2026.",
+    "source_type": "text",
+    "expected_tasks": [
+      "DBMS Assignment 9"
+    ],
+    "expected_subjects": [
+      "DBMS"
+    ],
+    "expected_categories": [
+      "assignment"
+    ],
+    "expected_deadlines": [
+      "November 19, 2026"
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Submit before deadline"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_ASSIGN_010",
+    "announcement_text": "Assignment 10: Write SQL queries for relational schema and normalize up to BCNF. Submit hardcopy and PDF report before November 20, 2026.",
+    "source_type": "text",
+    "expected_tasks": [
+      "DBMS Assignment 10"
+    ],
+    "expected_subjects": [
+      "DBMS"
+    ],
+    "expected_categories": [
+      "assignment"
+    ],
+    "expected_deadlines": [
+      "November 20, 2026"
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Submit before deadline"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_ASSIGN_011",
+    "announcement_text": "CN Assignment 1: Implement socket programming in Python (TCP and UDP client-server). Submission deadline is November 11, 2026 at 5:00 PM.",
+    "source_type": "text",
+    "expected_tasks": [
+      "CN Assignment 1"
+    ],
+    "expected_subjects": [
+      "CN"
+    ],
+    "expected_categories": [
+      "assignment"
+    ],
+    "expected_deadlines": [
+      "November 11, 2026"
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Submit before deadline"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_ASSIGN_012",
+    "announcement_text": "CN Assignment 2: Implement socket programming in Python (TCP and UDP client-server). Submission deadline is November 12, 2026 at 5:00 PM.",
+    "source_type": "text",
+    "expected_tasks": [
+      "CN Assignment 2"
+    ],
+    "expected_subjects": [
+      "CN"
+    ],
+    "expected_categories": [
+      "assignment"
+    ],
+    "expected_deadlines": [
+      "November 12, 2026"
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Submit before deadline"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_ASSIGN_013",
+    "announcement_text": "CN Assignment 3: Implement socket programming in Python (TCP and UDP client-server). Submission deadline is November 13, 2026 at 5:00 PM.",
+    "source_type": "text",
+    "expected_tasks": [
+      "CN Assignment 3"
+    ],
+    "expected_subjects": [
+      "CN"
+    ],
+    "expected_categories": [
+      "assignment"
+    ],
+    "expected_deadlines": [
+      "November 13, 2026"
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Submit before deadline"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_ASSIGN_014",
+    "announcement_text": "CN Assignment 4: Implement socket programming in Python (TCP and UDP client-server). Submission deadline is November 14, 2026 at 5:00 PM.",
+    "source_type": "text",
+    "expected_tasks": [
+      "CN Assignment 4"
+    ],
+    "expected_subjects": [
+      "CN"
+    ],
+    "expected_categories": [
+      "assignment"
+    ],
+    "expected_deadlines": [
+      "November 14, 2026"
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Submit before deadline"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_ASSIGN_015",
+    "announcement_text": "CN Assignment 5: Implement socket programming in Python (TCP and UDP client-server). Submission deadline is November 15, 2026 at 5:00 PM.",
+    "source_type": "text",
+    "expected_tasks": [
+      "CN Assignment 5"
+    ],
+    "expected_subjects": [
+      "CN"
+    ],
+    "expected_categories": [
+      "assignment"
+    ],
+    "expected_deadlines": [
+      "November 15, 2026"
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Submit before deadline"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_ASSIGN_016",
+    "announcement_text": "CN Assignment 6: Implement socket programming in Python (TCP and UDP client-server). Submission deadline is November 16, 2026 at 5:00 PM.",
+    "source_type": "text",
+    "expected_tasks": [
+      "CN Assignment 6"
+    ],
+    "expected_subjects": [
+      "CN"
+    ],
+    "expected_categories": [
+      "assignment"
+    ],
+    "expected_deadlines": [
+      "November 16, 2026"
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Submit before deadline"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_ASSIGN_017",
+    "announcement_text": "CN Assignment 7: Implement socket programming in Python (TCP and UDP client-server). Submission deadline is November 17, 2026 at 5:00 PM.",
+    "source_type": "text",
+    "expected_tasks": [
+      "CN Assignment 7"
+    ],
+    "expected_subjects": [
+      "CN"
+    ],
+    "expected_categories": [
+      "assignment"
+    ],
+    "expected_deadlines": [
+      "November 17, 2026"
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Submit before deadline"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_ASSIGN_018",
+    "announcement_text": "CN Assignment 8: Implement socket programming in Python (TCP and UDP client-server). Submission deadline is November 18, 2026 at 5:00 PM.",
+    "source_type": "text",
+    "expected_tasks": [
+      "CN Assignment 8"
+    ],
+    "expected_subjects": [
+      "CN"
+    ],
+    "expected_categories": [
+      "assignment"
+    ],
+    "expected_deadlines": [
+      "November 18, 2026"
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Submit before deadline"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_ASSIGN_019",
+    "announcement_text": "CN Assignment 9: Implement socket programming in Python (TCP and UDP client-server). Submission deadline is November 19, 2026 at 5:00 PM.",
+    "source_type": "text",
+    "expected_tasks": [
+      "CN Assignment 9"
+    ],
+    "expected_subjects": [
+      "CN"
+    ],
+    "expected_categories": [
+      "assignment"
+    ],
+    "expected_deadlines": [
+      "November 19, 2026"
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Submit before deadline"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_ASSIGN_020",
+    "announcement_text": "CN Assignment 10: Implement socket programming in Python (TCP and UDP client-server). Submission deadline is November 20, 2026 at 5:00 PM.",
+    "source_type": "text",
+    "expected_tasks": [
+      "CN Assignment 10"
+    ],
+    "expected_subjects": [
+      "CN"
+    ],
+    "expected_categories": [
+      "assignment"
+    ],
+    "expected_deadlines": [
+      "November 20, 2026"
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Submit before deadline"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_ASSIGN_021",
+    "announcement_text": "AI Problem Set 1: Solve A* search and Alpha-Beta pruning algorithms. Submit your typed report by November 11, 2026.",
+    "source_type": "text",
+    "expected_tasks": [
+      "AI Problem Set 1"
+    ],
+    "expected_subjects": [
+      "AI"
+    ],
+    "expected_categories": [
+      "assignment"
+    ],
+    "expected_deadlines": [
+      "November 11, 2026"
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Submit before deadline"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_ASSIGN_022",
+    "announcement_text": "AI Problem Set 2: Solve A* search and Alpha-Beta pruning algorithms. Submit your typed report by November 12, 2026.",
+    "source_type": "text",
+    "expected_tasks": [
+      "AI Problem Set 2"
+    ],
+    "expected_subjects": [
+      "AI"
+    ],
+    "expected_categories": [
+      "assignment"
+    ],
+    "expected_deadlines": [
+      "November 12, 2026"
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Submit before deadline"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_ASSIGN_023",
+    "announcement_text": "AI Problem Set 3: Solve A* search and Alpha-Beta pruning algorithms. Submit your typed report by November 13, 2026.",
+    "source_type": "text",
+    "expected_tasks": [
+      "AI Problem Set 3"
+    ],
+    "expected_subjects": [
+      "AI"
+    ],
+    "expected_categories": [
+      "assignment"
+    ],
+    "expected_deadlines": [
+      "November 13, 2026"
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Submit before deadline"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_ASSIGN_024",
+    "announcement_text": "AI Problem Set 4: Solve A* search and Alpha-Beta pruning algorithms. Submit your typed report by November 14, 2026.",
+    "source_type": "text",
+    "expected_tasks": [
+      "AI Problem Set 4"
+    ],
+    "expected_subjects": [
+      "AI"
+    ],
+    "expected_categories": [
+      "assignment"
+    ],
+    "expected_deadlines": [
+      "November 14, 2026"
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Submit before deadline"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_ASSIGN_025",
+    "announcement_text": "AI Problem Set 5: Solve A* search and Alpha-Beta pruning algorithms. Submit your typed report by November 15, 2026.",
+    "source_type": "text",
+    "expected_tasks": [
+      "AI Problem Set 5"
+    ],
+    "expected_subjects": [
+      "AI"
+    ],
+    "expected_categories": [
+      "assignment"
+    ],
+    "expected_deadlines": [
+      "November 15, 2026"
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Submit before deadline"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_ASSIGN_026",
+    "announcement_text": "AI Problem Set 6: Solve A* search and Alpha-Beta pruning algorithms. Submit your typed report by November 16, 2026.",
+    "source_type": "text",
+    "expected_tasks": [
+      "AI Problem Set 6"
+    ],
+    "expected_subjects": [
+      "AI"
+    ],
+    "expected_categories": [
+      "assignment"
+    ],
+    "expected_deadlines": [
+      "November 16, 2026"
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Submit before deadline"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_ASSIGN_027",
+    "announcement_text": "AI Problem Set 7: Solve A* search and Alpha-Beta pruning algorithms. Submit your typed report by November 17, 2026.",
+    "source_type": "text",
+    "expected_tasks": [
+      "AI Problem Set 7"
+    ],
+    "expected_subjects": [
+      "AI"
+    ],
+    "expected_categories": [
+      "assignment"
+    ],
+    "expected_deadlines": [
+      "November 17, 2026"
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Submit before deadline"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_ASSIGN_028",
+    "announcement_text": "AI Problem Set 8: Solve A* search and Alpha-Beta pruning algorithms. Submit your typed report by November 18, 2026.",
+    "source_type": "text",
+    "expected_tasks": [
+      "AI Problem Set 8"
+    ],
+    "expected_subjects": [
+      "AI"
+    ],
+    "expected_categories": [
+      "assignment"
+    ],
+    "expected_deadlines": [
+      "November 18, 2026"
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Submit before deadline"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_ASSIGN_029",
+    "announcement_text": "AI Problem Set 9: Solve A* search and Alpha-Beta pruning algorithms. Submit your typed report by November 19, 2026.",
+    "source_type": "text",
+    "expected_tasks": [
+      "AI Problem Set 9"
+    ],
+    "expected_subjects": [
+      "AI"
+    ],
+    "expected_categories": [
+      "assignment"
+    ],
+    "expected_deadlines": [
+      "November 19, 2026"
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Submit before deadline"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_ASSIGN_030",
+    "announcement_text": "AI Problem Set 10: Solve A* search and Alpha-Beta pruning algorithms. Submit your typed report by November 20, 2026.",
+    "source_type": "text",
+    "expected_tasks": [
+      "AI Problem Set 10"
+    ],
+    "expected_subjects": [
+      "AI"
+    ],
+    "expected_categories": [
+      "assignment"
+    ],
+    "expected_deadlines": [
+      "November 20, 2026"
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Submit before deadline"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_EXAM_001",
+    "announcement_text": "First Internal Assessment for DBMS will be held on November 16, 2026 from 10:00 AM to 11:30 AM. Syllabus covers Modules 1 and 2.",
+    "source_type": "text",
+    "expected_tasks": [
+      "DBMS Internal Assessment"
+    ],
+    "expected_subjects": [
+      "DBMS"
+    ],
+    "expected_categories": [
+      "examination"
+    ],
+    "expected_deadlines": [
+      null
+    ],
+    "expected_event_dates": [
+      "November 16, 2026"
+    ],
+    "expected_instructions": [
+      "Prepare modules"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_EXAM_002",
+    "announcement_text": "First Internal Assessment for DBMS will be held on November 17, 2026 from 10:00 AM to 11:30 AM. Syllabus covers Modules 1 and 2.",
+    "source_type": "text",
+    "expected_tasks": [
+      "DBMS Internal Assessment"
+    ],
+    "expected_subjects": [
+      "DBMS"
+    ],
+    "expected_categories": [
+      "examination"
+    ],
+    "expected_deadlines": [
+      null
+    ],
+    "expected_event_dates": [
+      "November 17, 2026"
+    ],
+    "expected_instructions": [
+      "Prepare modules"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_EXAM_003",
+    "announcement_text": "First Internal Assessment for DBMS will be held on November 18, 2026 from 10:00 AM to 11:30 AM. Syllabus covers Modules 1 and 2.",
+    "source_type": "text",
+    "expected_tasks": [
+      "DBMS Internal Assessment"
+    ],
+    "expected_subjects": [
+      "DBMS"
+    ],
+    "expected_categories": [
+      "examination"
+    ],
+    "expected_deadlines": [
+      null
+    ],
+    "expected_event_dates": [
+      "November 18, 2026"
+    ],
+    "expected_instructions": [
+      "Prepare modules"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_EXAM_004",
+    "announcement_text": "First Internal Assessment for DBMS will be held on November 19, 2026 from 10:00 AM to 11:30 AM. Syllabus covers Modules 1 and 2.",
+    "source_type": "text",
+    "expected_tasks": [
+      "DBMS Internal Assessment"
+    ],
+    "expected_subjects": [
+      "DBMS"
+    ],
+    "expected_categories": [
+      "examination"
+    ],
+    "expected_deadlines": [
+      null
+    ],
+    "expected_event_dates": [
+      "November 19, 2026"
+    ],
+    "expected_instructions": [
+      "Prepare modules"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_EXAM_005",
+    "announcement_text": "First Internal Assessment for DBMS will be held on November 20, 2026 from 10:00 AM to 11:30 AM. Syllabus covers Modules 1 and 2.",
+    "source_type": "text",
+    "expected_tasks": [
+      "DBMS Internal Assessment"
+    ],
+    "expected_subjects": [
+      "DBMS"
+    ],
+    "expected_categories": [
+      "examination"
+    ],
+    "expected_deadlines": [
+      null
+    ],
+    "expected_event_dates": [
+      "November 20, 2026"
+    ],
+    "expected_instructions": [
+      "Prepare modules"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_EXAM_006",
+    "announcement_text": "First Internal Assessment for DBMS will be held on November 21, 2026 from 10:00 AM to 11:30 AM. Syllabus covers Modules 1 and 2.",
+    "source_type": "text",
+    "expected_tasks": [
+      "DBMS Internal Assessment"
+    ],
+    "expected_subjects": [
+      "DBMS"
+    ],
+    "expected_categories": [
+      "examination"
+    ],
+    "expected_deadlines": [
+      null
+    ],
+    "expected_event_dates": [
+      "November 21, 2026"
+    ],
+    "expected_instructions": [
+      "Prepare modules"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_EXAM_007",
+    "announcement_text": "First Internal Assessment for DBMS will be held on November 22, 2026 from 10:00 AM to 11:30 AM. Syllabus covers Modules 1 and 2.",
+    "source_type": "text",
+    "expected_tasks": [
+      "DBMS Internal Assessment"
+    ],
+    "expected_subjects": [
+      "DBMS"
+    ],
+    "expected_categories": [
+      "examination"
+    ],
+    "expected_deadlines": [
+      null
+    ],
+    "expected_event_dates": [
+      "November 22, 2026"
+    ],
+    "expected_instructions": [
+      "Prepare modules"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_EXAM_008",
+    "announcement_text": "First Internal Assessment for DBMS will be held on November 23, 2026 from 10:00 AM to 11:30 AM. Syllabus covers Modules 1 and 2.",
+    "source_type": "text",
+    "expected_tasks": [
+      "DBMS Internal Assessment"
+    ],
+    "expected_subjects": [
+      "DBMS"
+    ],
+    "expected_categories": [
+      "examination"
+    ],
+    "expected_deadlines": [
+      null
+    ],
+    "expected_event_dates": [
+      "November 23, 2026"
+    ],
+    "expected_instructions": [
+      "Prepare modules"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_EXAM_009",
+    "announcement_text": "First Internal Assessment for DBMS will be held on November 24, 2026 from 10:00 AM to 11:30 AM. Syllabus covers Modules 1 and 2.",
+    "source_type": "text",
+    "expected_tasks": [
+      "DBMS Internal Assessment"
+    ],
+    "expected_subjects": [
+      "DBMS"
+    ],
+    "expected_categories": [
+      "examination"
+    ],
+    "expected_deadlines": [
+      null
+    ],
+    "expected_event_dates": [
+      "November 24, 2026"
+    ],
+    "expected_instructions": [
+      "Prepare modules"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_EXAM_010",
+    "announcement_text": "First Internal Assessment for DBMS will be held on November 25, 2026 from 10:00 AM to 11:30 AM. Syllabus covers Modules 1 and 2.",
+    "source_type": "text",
+    "expected_tasks": [
+      "DBMS Internal Assessment"
+    ],
+    "expected_subjects": [
+      "DBMS"
+    ],
+    "expected_categories": [
+      "examination"
+    ],
+    "expected_deadlines": [
+      null
+    ],
+    "expected_event_dates": [
+      "November 25, 2026"
+    ],
+    "expected_instructions": [
+      "Prepare modules"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_EXAM_011",
+    "announcement_text": "Mid-term Examination for Operating Systems is scheduled on November 16, 2026. Prepare CPU scheduling, deadlocks, and virtual memory.",
+    "source_type": "text",
+    "expected_tasks": [
+      "Operating Systems Mid-term Examination"
+    ],
+    "expected_subjects": [
+      "Operating Systems"
+    ],
+    "expected_categories": [
+      "examination"
+    ],
+    "expected_deadlines": [
+      null
+    ],
+    "expected_event_dates": [
+      "November 16, 2026"
+    ],
+    "expected_instructions": [
+      "Prepare modules"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_EXAM_012",
+    "announcement_text": "Mid-term Examination for Operating Systems is scheduled on November 17, 2026. Prepare CPU scheduling, deadlocks, and virtual memory.",
+    "source_type": "text",
+    "expected_tasks": [
+      "Operating Systems Mid-term Examination"
+    ],
+    "expected_subjects": [
+      "Operating Systems"
+    ],
+    "expected_categories": [
+      "examination"
+    ],
+    "expected_deadlines": [
+      null
+    ],
+    "expected_event_dates": [
+      "November 17, 2026"
+    ],
+    "expected_instructions": [
+      "Prepare modules"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_EXAM_013",
+    "announcement_text": "Mid-term Examination for Operating Systems is scheduled on November 18, 2026. Prepare CPU scheduling, deadlocks, and virtual memory.",
+    "source_type": "text",
+    "expected_tasks": [
+      "Operating Systems Mid-term Examination"
+    ],
+    "expected_subjects": [
+      "Operating Systems"
+    ],
+    "expected_categories": [
+      "examination"
+    ],
+    "expected_deadlines": [
+      null
+    ],
+    "expected_event_dates": [
+      "November 18, 2026"
+    ],
+    "expected_instructions": [
+      "Prepare modules"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_EXAM_014",
+    "announcement_text": "Mid-term Examination for Operating Systems is scheduled on November 19, 2026. Prepare CPU scheduling, deadlocks, and virtual memory.",
+    "source_type": "text",
+    "expected_tasks": [
+      "Operating Systems Mid-term Examination"
+    ],
+    "expected_subjects": [
+      "Operating Systems"
+    ],
+    "expected_categories": [
+      "examination"
+    ],
+    "expected_deadlines": [
+      null
+    ],
+    "expected_event_dates": [
+      "November 19, 2026"
+    ],
+    "expected_instructions": [
+      "Prepare modules"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_EXAM_015",
+    "announcement_text": "Mid-term Examination for Operating Systems is scheduled on November 20, 2026. Prepare CPU scheduling, deadlocks, and virtual memory.",
+    "source_type": "text",
+    "expected_tasks": [
+      "Operating Systems Mid-term Examination"
+    ],
+    "expected_subjects": [
+      "Operating Systems"
+    ],
+    "expected_categories": [
+      "examination"
+    ],
+    "expected_deadlines": [
+      null
+    ],
+    "expected_event_dates": [
+      "November 20, 2026"
+    ],
+    "expected_instructions": [
+      "Prepare modules"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_EXAM_016",
+    "announcement_text": "Mid-term Examination for Operating Systems is scheduled on November 21, 2026. Prepare CPU scheduling, deadlocks, and virtual memory.",
+    "source_type": "text",
+    "expected_tasks": [
+      "Operating Systems Mid-term Examination"
+    ],
+    "expected_subjects": [
+      "Operating Systems"
+    ],
+    "expected_categories": [
+      "examination"
+    ],
+    "expected_deadlines": [
+      null
+    ],
+    "expected_event_dates": [
+      "November 21, 2026"
+    ],
+    "expected_instructions": [
+      "Prepare modules"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_EXAM_017",
+    "announcement_text": "Mid-term Examination for Operating Systems is scheduled on November 22, 2026. Prepare CPU scheduling, deadlocks, and virtual memory.",
+    "source_type": "text",
+    "expected_tasks": [
+      "Operating Systems Mid-term Examination"
+    ],
+    "expected_subjects": [
+      "Operating Systems"
+    ],
+    "expected_categories": [
+      "examination"
+    ],
+    "expected_deadlines": [
+      null
+    ],
+    "expected_event_dates": [
+      "November 22, 2026"
+    ],
+    "expected_instructions": [
+      "Prepare modules"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_EXAM_018",
+    "announcement_text": "Mid-term Examination for Operating Systems is scheduled on November 23, 2026. Prepare CPU scheduling, deadlocks, and virtual memory.",
+    "source_type": "text",
+    "expected_tasks": [
+      "Operating Systems Mid-term Examination"
+    ],
+    "expected_subjects": [
+      "Operating Systems"
+    ],
+    "expected_categories": [
+      "examination"
+    ],
+    "expected_deadlines": [
+      null
+    ],
+    "expected_event_dates": [
+      "November 23, 2026"
+    ],
+    "expected_instructions": [
+      "Prepare modules"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_EXAM_019",
+    "announcement_text": "Mid-term Examination for Operating Systems is scheduled on November 24, 2026. Prepare CPU scheduling, deadlocks, and virtual memory.",
+    "source_type": "text",
+    "expected_tasks": [
+      "Operating Systems Mid-term Examination"
+    ],
+    "expected_subjects": [
+      "Operating Systems"
+    ],
+    "expected_categories": [
+      "examination"
+    ],
+    "expected_deadlines": [
+      null
+    ],
+    "expected_event_dates": [
+      "November 24, 2026"
+    ],
+    "expected_instructions": [
+      "Prepare modules"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_EXAM_020",
+    "announcement_text": "Mid-term Examination for Operating Systems is scheduled on November 25, 2026. Prepare CPU scheduling, deadlocks, and virtual memory.",
+    "source_type": "text",
+    "expected_tasks": [
+      "Operating Systems Mid-term Examination"
+    ],
+    "expected_subjects": [
+      "Operating Systems"
+    ],
+    "expected_categories": [
+      "examination"
+    ],
+    "expected_deadlines": [
+      null
+    ],
+    "expected_event_dates": [
+      "November 25, 2026"
+    ],
+    "expected_instructions": [
+      "Prepare modules"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_LAB_001",
+    "announcement_text": "DBMS Laboratory Experiment 1: Execute triggers and stored procedures. Complete the observation record and get it evaluated on November 12, 2026.",
+    "source_type": "text",
+    "expected_tasks": [
+      "DBMS Lab Experiment 1"
+    ],
+    "expected_subjects": [
+      "DBMS"
+    ],
+    "expected_categories": [
+      "lab"
+    ],
+    "expected_deadlines": [
+      "November 12, 2026"
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Execute triggers and stored procedures"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_LAB_002",
+    "announcement_text": "DBMS Laboratory Experiment 2: Execute triggers and stored procedures. Complete the observation record and get it evaluated on November 13, 2026.",
+    "source_type": "text",
+    "expected_tasks": [
+      "DBMS Lab Experiment 2"
+    ],
+    "expected_subjects": [
+      "DBMS"
+    ],
+    "expected_categories": [
+      "lab"
+    ],
+    "expected_deadlines": [
+      "November 13, 2026"
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Execute triggers and stored procedures"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_LAB_003",
+    "announcement_text": "DBMS Laboratory Experiment 3: Execute triggers and stored procedures. Complete the observation record and get it evaluated on November 14, 2026.",
+    "source_type": "text",
+    "expected_tasks": [
+      "DBMS Lab Experiment 3"
+    ],
+    "expected_subjects": [
+      "DBMS"
+    ],
+    "expected_categories": [
+      "lab"
+    ],
+    "expected_deadlines": [
+      "November 14, 2026"
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Execute triggers and stored procedures"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_LAB_004",
+    "announcement_text": "DBMS Laboratory Experiment 4: Execute triggers and stored procedures. Complete the observation record and get it evaluated on November 15, 2026.",
+    "source_type": "text",
+    "expected_tasks": [
+      "DBMS Lab Experiment 4"
+    ],
+    "expected_subjects": [
+      "DBMS"
+    ],
+    "expected_categories": [
+      "lab"
+    ],
+    "expected_deadlines": [
+      "November 15, 2026"
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Execute triggers and stored procedures"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_LAB_005",
+    "announcement_text": "DBMS Laboratory Experiment 5: Execute triggers and stored procedures. Complete the observation record and get it evaluated on November 16, 2026.",
+    "source_type": "text",
+    "expected_tasks": [
+      "DBMS Lab Experiment 5"
+    ],
+    "expected_subjects": [
+      "DBMS"
+    ],
+    "expected_categories": [
+      "lab"
+    ],
+    "expected_deadlines": [
+      "November 16, 2026"
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Execute triggers and stored procedures"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_LAB_006",
+    "announcement_text": "DBMS Laboratory Experiment 6: Execute triggers and stored procedures. Complete the observation record and get it evaluated on November 17, 2026.",
+    "source_type": "text",
+    "expected_tasks": [
+      "DBMS Lab Experiment 6"
+    ],
+    "expected_subjects": [
+      "DBMS"
+    ],
+    "expected_categories": [
+      "lab"
+    ],
+    "expected_deadlines": [
+      "November 17, 2026"
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Execute triggers and stored procedures"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_LAB_007",
+    "announcement_text": "DBMS Laboratory Experiment 7: Execute triggers and stored procedures. Complete the observation record and get it evaluated on November 18, 2026.",
+    "source_type": "text",
+    "expected_tasks": [
+      "DBMS Lab Experiment 7"
+    ],
+    "expected_subjects": [
+      "DBMS"
+    ],
+    "expected_categories": [
+      "lab"
+    ],
+    "expected_deadlines": [
+      "November 18, 2026"
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Execute triggers and stored procedures"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_LAB_008",
+    "announcement_text": "DBMS Laboratory Experiment 8: Execute triggers and stored procedures. Complete the observation record and get it evaluated on November 19, 2026.",
+    "source_type": "text",
+    "expected_tasks": [
+      "DBMS Lab Experiment 8"
+    ],
+    "expected_subjects": [
+      "DBMS"
+    ],
+    "expected_categories": [
+      "lab"
+    ],
+    "expected_deadlines": [
+      "November 19, 2026"
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Execute triggers and stored procedures"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_LAB_009",
+    "announcement_text": "DBMS Laboratory Experiment 9: Execute triggers and stored procedures. Complete the observation record and get it evaluated on November 20, 2026.",
+    "source_type": "text",
+    "expected_tasks": [
+      "DBMS Lab Experiment 9"
+    ],
+    "expected_subjects": [
+      "DBMS"
+    ],
+    "expected_categories": [
+      "lab"
+    ],
+    "expected_deadlines": [
+      "November 20, 2026"
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Execute triggers and stored procedures"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_LAB_010",
+    "announcement_text": "DBMS Laboratory Experiment 10: Execute triggers and stored procedures. Complete the observation record and get it evaluated on November 21, 2026.",
+    "source_type": "text",
+    "expected_tasks": [
+      "DBMS Lab Experiment 10"
+    ],
+    "expected_subjects": [
+      "DBMS"
+    ],
+    "expected_categories": [
+      "lab"
+    ],
+    "expected_deadlines": [
+      "November 21, 2026"
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Execute triggers and stored procedures"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_LAB_011",
+    "announcement_text": "DBMS Laboratory Experiment 11: Execute triggers and stored procedures. Complete the observation record and get it evaluated on November 22, 2026.",
+    "source_type": "text",
+    "expected_tasks": [
+      "DBMS Lab Experiment 11"
+    ],
+    "expected_subjects": [
+      "DBMS"
+    ],
+    "expected_categories": [
+      "lab"
+    ],
+    "expected_deadlines": [
+      "November 22, 2026"
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Execute triggers and stored procedures"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_LAB_012",
+    "announcement_text": "DBMS Laboratory Experiment 12: Execute triggers and stored procedures. Complete the observation record and get it evaluated on November 23, 2026.",
+    "source_type": "text",
+    "expected_tasks": [
+      "DBMS Lab Experiment 12"
+    ],
+    "expected_subjects": [
+      "DBMS"
+    ],
+    "expected_categories": [
+      "lab"
+    ],
+    "expected_deadlines": [
+      "November 23, 2026"
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Execute triggers and stored procedures"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_LAB_013",
+    "announcement_text": "DBMS Laboratory Experiment 13: Execute triggers and stored procedures. Complete the observation record and get it evaluated on November 24, 2026.",
+    "source_type": "text",
+    "expected_tasks": [
+      "DBMS Lab Experiment 13"
+    ],
+    "expected_subjects": [
+      "DBMS"
+    ],
+    "expected_categories": [
+      "lab"
+    ],
+    "expected_deadlines": [
+      "November 24, 2026"
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Execute triggers and stored procedures"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_LAB_014",
+    "announcement_text": "DBMS Laboratory Experiment 14: Execute triggers and stored procedures. Complete the observation record and get it evaluated on November 25, 2026.",
+    "source_type": "text",
+    "expected_tasks": [
+      "DBMS Lab Experiment 14"
+    ],
+    "expected_subjects": [
+      "DBMS"
+    ],
+    "expected_categories": [
+      "lab"
+    ],
+    "expected_deadlines": [
+      "November 25, 2026"
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Execute triggers and stored procedures"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_LAB_015",
+    "announcement_text": "DBMS Laboratory Experiment 15: Execute triggers and stored procedures. Complete the observation record and get it evaluated on November 11, 2026.",
+    "source_type": "text",
+    "expected_tasks": [
+      "DBMS Lab Experiment 15"
+    ],
+    "expected_subjects": [
+      "DBMS"
+    ],
+    "expected_categories": [
+      "lab"
+    ],
+    "expected_deadlines": [
+      "November 11, 2026"
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Execute triggers and stored procedures"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_EVENT_001",
+    "announcement_text": "Annual College Technical Symposium 'TechFest 2026' will take place on November 13, 2026 at the Main Auditorium starting at 9:30 AM. Attendance is mandatory.",
+    "source_type": "text",
+    "expected_tasks": [
+      "Annual College Technical Symposium 'TechFest 2026'"
+    ],
+    "expected_subjects": [
+      "General"
+    ],
+    "expected_categories": [
+      "event"
+    ],
+    "expected_deadlines": [
+      null
+    ],
+    "expected_event_dates": [
+      "November 13, 2026"
+    ],
+    "expected_instructions": [
+      "Attendance is mandatory"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_EVENT_002",
+    "announcement_text": "Guest Lecture on Deep Learning and Generative AI will take place on November 14, 2026 at the Main Auditorium starting at 9:30 AM. Attendance is mandatory.",
+    "source_type": "text",
+    "expected_tasks": [
+      "Guest Lecture on Deep Learning and Generative AI"
+    ],
+    "expected_subjects": [
+      "General"
+    ],
+    "expected_categories": [
+      "event"
+    ],
+    "expected_deadlines": [
+      null
+    ],
+    "expected_event_dates": [
+      "November 14, 2026"
+    ],
+    "expected_instructions": [
+      "Attendance is mandatory"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_EVENT_003",
+    "announcement_text": "National Level Hackathon 2026 will take place on November 15, 2026 at the Main Auditorium starting at 9:30 AM. Attendance is mandatory.",
+    "source_type": "text",
+    "expected_tasks": [
+      "National Level Hackathon 2026"
+    ],
+    "expected_subjects": [
+      "General"
+    ],
+    "expected_categories": [
+      "event"
+    ],
+    "expected_deadlines": [
+      null
+    ],
+    "expected_event_dates": [
+      "November 15, 2026"
+    ],
+    "expected_instructions": [
+      "Attendance is mandatory"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_EVENT_004",
+    "announcement_text": "Workshop on Cloud Computing with AWS and Docker will take place on November 16, 2026 at the Main Auditorium starting at 9:30 AM. Attendance is mandatory.",
+    "source_type": "text",
+    "expected_tasks": [
+      "Workshop on Cloud Computing with AWS and Docker"
+    ],
+    "expected_subjects": [
+      "General"
+    ],
+    "expected_categories": [
+      "event"
+    ],
+    "expected_deadlines": [
+      null
+    ],
+    "expected_event_dates": [
+      "November 16, 2026"
+    ],
+    "expected_instructions": [
+      "Attendance is mandatory"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_EVENT_005",
+    "announcement_text": "Department Orientation Program for Final Year Students will take place on November 17, 2026 at the Main Auditorium starting at 9:30 AM. Attendance is mandatory.",
+    "source_type": "text",
+    "expected_tasks": [
+      "Department Orientation Program for Final Year Students"
+    ],
+    "expected_subjects": [
+      "General"
+    ],
+    "expected_categories": [
+      "event"
+    ],
+    "expected_deadlines": [
+      null
+    ],
+    "expected_event_dates": [
+      "November 17, 2026"
+    ],
+    "expected_instructions": [
+      "Attendance is mandatory"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_EVENT_006",
+    "announcement_text": "Annual College Technical Symposium 'TechFest 2026' will take place on November 18, 2026 at the Main Auditorium starting at 9:30 AM. Attendance is mandatory.",
+    "source_type": "text",
+    "expected_tasks": [
+      "Annual College Technical Symposium 'TechFest 2026'"
+    ],
+    "expected_subjects": [
+      "General"
+    ],
+    "expected_categories": [
+      "event"
+    ],
+    "expected_deadlines": [
+      null
+    ],
+    "expected_event_dates": [
+      "November 18, 2026"
+    ],
+    "expected_instructions": [
+      "Attendance is mandatory"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_EVENT_007",
+    "announcement_text": "Guest Lecture on Deep Learning and Generative AI will take place on November 19, 2026 at the Main Auditorium starting at 9:30 AM. Attendance is mandatory.",
+    "source_type": "text",
+    "expected_tasks": [
+      "Guest Lecture on Deep Learning and Generative AI"
+    ],
+    "expected_subjects": [
+      "General"
+    ],
+    "expected_categories": [
+      "event"
+    ],
+    "expected_deadlines": [
+      null
+    ],
+    "expected_event_dates": [
+      "November 19, 2026"
+    ],
+    "expected_instructions": [
+      "Attendance is mandatory"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_EVENT_008",
+    "announcement_text": "National Level Hackathon 2026 will take place on November 20, 2026 at the Main Auditorium starting at 9:30 AM. Attendance is mandatory.",
+    "source_type": "text",
+    "expected_tasks": [
+      "National Level Hackathon 2026"
+    ],
+    "expected_subjects": [
+      "General"
+    ],
+    "expected_categories": [
+      "event"
+    ],
+    "expected_deadlines": [
+      null
+    ],
+    "expected_event_dates": [
+      "November 20, 2026"
+    ],
+    "expected_instructions": [
+      "Attendance is mandatory"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_EVENT_009",
+    "announcement_text": "Workshop on Cloud Computing with AWS and Docker will take place on November 21, 2026 at the Main Auditorium starting at 9:30 AM. Attendance is mandatory.",
+    "source_type": "text",
+    "expected_tasks": [
+      "Workshop on Cloud Computing with AWS and Docker"
+    ],
+    "expected_subjects": [
+      "General"
+    ],
+    "expected_categories": [
+      "event"
+    ],
+    "expected_deadlines": [
+      null
+    ],
+    "expected_event_dates": [
+      "November 21, 2026"
+    ],
+    "expected_instructions": [
+      "Attendance is mandatory"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_EVENT_010",
+    "announcement_text": "Department Orientation Program for Final Year Students will take place on November 22, 2026 at the Main Auditorium starting at 9:30 AM. Attendance is mandatory.",
+    "source_type": "text",
+    "expected_tasks": [
+      "Department Orientation Program for Final Year Students"
+    ],
+    "expected_subjects": [
+      "General"
+    ],
+    "expected_categories": [
+      "event"
+    ],
+    "expected_deadlines": [
+      null
+    ],
+    "expected_event_dates": [
+      "November 22, 2026"
+    ],
+    "expected_instructions": [
+      "Attendance is mandatory"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_EVENT_011",
+    "announcement_text": "Annual College Technical Symposium 'TechFest 2026' will take place on November 23, 2026 at the Main Auditorium starting at 9:30 AM. Attendance is mandatory.",
+    "source_type": "text",
+    "expected_tasks": [
+      "Annual College Technical Symposium 'TechFest 2026'"
+    ],
+    "expected_subjects": [
+      "General"
+    ],
+    "expected_categories": [
+      "event"
+    ],
+    "expected_deadlines": [
+      null
+    ],
+    "expected_event_dates": [
+      "November 23, 2026"
+    ],
+    "expected_instructions": [
+      "Attendance is mandatory"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_EVENT_012",
+    "announcement_text": "Guest Lecture on Deep Learning and Generative AI will take place on November 24, 2026 at the Main Auditorium starting at 9:30 AM. Attendance is mandatory.",
+    "source_type": "text",
+    "expected_tasks": [
+      "Guest Lecture on Deep Learning and Generative AI"
+    ],
+    "expected_subjects": [
+      "General"
+    ],
+    "expected_categories": [
+      "event"
+    ],
+    "expected_deadlines": [
+      null
+    ],
+    "expected_event_dates": [
+      "November 24, 2026"
+    ],
+    "expected_instructions": [
+      "Attendance is mandatory"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_EVENT_013",
+    "announcement_text": "National Level Hackathon 2026 will take place on November 25, 2026 at the Main Auditorium starting at 9:30 AM. Attendance is mandatory.",
+    "source_type": "text",
+    "expected_tasks": [
+      "National Level Hackathon 2026"
+    ],
+    "expected_subjects": [
+      "General"
+    ],
+    "expected_categories": [
+      "event"
+    ],
+    "expected_deadlines": [
+      null
+    ],
+    "expected_event_dates": [
+      "November 25, 2026"
+    ],
+    "expected_instructions": [
+      "Attendance is mandatory"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_EVENT_014",
+    "announcement_text": "Workshop on Cloud Computing with AWS and Docker will take place on November 26, 2026 at the Main Auditorium starting at 9:30 AM. Attendance is mandatory.",
+    "source_type": "text",
+    "expected_tasks": [
+      "Workshop on Cloud Computing with AWS and Docker"
+    ],
+    "expected_subjects": [
+      "General"
+    ],
+    "expected_categories": [
+      "event"
+    ],
+    "expected_deadlines": [
+      null
+    ],
+    "expected_event_dates": [
+      "November 26, 2026"
+    ],
+    "expected_instructions": [
+      "Attendance is mandatory"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_EVENT_015",
+    "announcement_text": "Department Orientation Program for Final Year Students will take place on November 27, 2026 at the Main Auditorium starting at 9:30 AM. Attendance is mandatory.",
+    "source_type": "text",
+    "expected_tasks": [
+      "Department Orientation Program for Final Year Students"
+    ],
+    "expected_subjects": [
+      "General"
+    ],
+    "expected_categories": [
+      "event"
+    ],
+    "expected_deadlines": [
+      null
+    ],
+    "expected_event_dates": [
+      "November 27, 2026"
+    ],
+    "expected_instructions": [
+      "Attendance is mandatory"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_AMBIG_001",
+    "announcement_text": "Students are requested to submit the DBMS assignment next Monday without fail.",
+    "source_type": "text",
+    "expected_tasks": [
+      "Academic Activity"
+    ],
+    "expected_subjects": [
+      "General"
+    ],
+    "expected_categories": [
+      "assignment"
+    ],
+    "expected_deadlines": [
+      null
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Student verification required"
+    ],
+    "ambiguity_status": true
+  },
+  {
+    "announcement_id": "CAAD_AMBIG_002",
+    "announcement_text": "Kindly submit your project synopsis as soon as possible to the department office.",
+    "source_type": "text",
+    "expected_tasks": [
+      "Academic Activity"
+    ],
+    "expected_subjects": [
+      "General"
+    ],
+    "expected_categories": [
+      "assignment"
+    ],
+    "expected_deadlines": [
+      null
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Student verification required"
+    ],
+    "ambiguity_status": true
+  },
+  {
+    "announcement_id": "CAAD_AMBIG_003",
+    "announcement_text": "The internal test will be conducted tomorrow afternoon in Room 302.",
+    "source_type": "text",
+    "expected_tasks": [
+      "Academic Activity"
+    ],
+    "expected_subjects": [
+      "General"
+    ],
+    "expected_categories": [
+      "assignment"
+    ],
+    "expected_deadlines": [
+      null
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Student verification required"
+    ],
+    "ambiguity_status": true
+  },
+  {
+    "announcement_id": "CAAD_AMBIG_004",
+    "announcement_text": "Submit the CN lab manual before next week or marks will be deducted.",
+    "source_type": "text",
+    "expected_tasks": [
+      "Academic Activity"
+    ],
+    "expected_subjects": [
+      "General"
+    ],
+    "expected_categories": [
+      "assignment"
+    ],
+    "expected_deadlines": [
+      null
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Student verification required"
+    ],
+    "ambiguity_status": true
+  },
+  {
+    "announcement_id": "CAAD_AMBIG_005",
+    "announcement_text": "Complete the course survey by end of week.",
+    "source_type": "text",
+    "expected_tasks": [
+      "Academic Activity"
+    ],
+    "expected_subjects": [
+      "General"
+    ],
+    "expected_categories": [
+      "assignment"
+    ],
+    "expected_deadlines": [
+      null
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Student verification required"
+    ],
+    "ambiguity_status": true
+  },
+  {
+    "announcement_id": "CAAD_AMBIG_006",
+    "announcement_text": "The seminar presentation will be held coming Wednesday.",
+    "source_type": "text",
+    "expected_tasks": [
+      "Academic Activity"
+    ],
+    "expected_subjects": [
+      "General"
+    ],
+    "expected_categories": [
+      "assignment"
+    ],
+    "expected_deadlines": [
+      null
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Student verification required"
+    ],
+    "ambiguity_status": true
+  },
+  {
+    "announcement_id": "CAAD_AMBIG_007",
+    "announcement_text": "Students must upload their internship certificates shortly.",
+    "source_type": "text",
+    "expected_tasks": [
+      "Academic Activity"
+    ],
+    "expected_subjects": [
+      "General"
+    ],
+    "expected_categories": [
+      "assignment"
+    ],
+    "expected_deadlines": [
+      null
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Student verification required"
+    ],
+    "ambiguity_status": true
+  },
+  {
+    "announcement_id": "CAAD_AMBIG_008",
+    "announcement_text": "Submit remaining assignment problems soon.",
+    "source_type": "text",
+    "expected_tasks": [
+      "Academic Activity"
+    ],
+    "expected_subjects": [
+      "General"
+    ],
+    "expected_categories": [
+      "assignment"
+    ],
+    "expected_deadlines": [
+      null
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Student verification required"
+    ],
+    "ambiguity_status": true
+  },
+  {
+    "announcement_id": "CAAD_AMBIG_009",
+    "announcement_text": "Internal test marks verification tomorrow at 2 PM.",
+    "source_type": "text",
+    "expected_tasks": [
+      "Academic Activity"
+    ],
+    "expected_subjects": [
+      "General"
+    ],
+    "expected_categories": [
+      "assignment"
+    ],
+    "expected_deadlines": [
+      null
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Student verification required"
+    ],
+    "ambiguity_status": true
+  },
+  {
+    "announcement_id": "CAAD_AMBIG_010",
+    "announcement_text": "Lab records must be signed by next Friday.",
+    "source_type": "text",
+    "expected_tasks": [
+      "Academic Activity"
+    ],
+    "expected_subjects": [
+      "General"
+    ],
+    "expected_categories": [
+      "assignment"
+    ],
+    "expected_deadlines": [
+      null
+    ],
+    "expected_event_dates": [
+      null
+    ],
+    "expected_instructions": [
+      "Student verification required"
+    ],
+    "ambiguity_status": true
+  },
+  {
+    "announcement_id": "CAAD_MULTI_001",
+    "announcement_text": "Students must complete the DBMS assignment before November 18, 2026. The CN assignment is due on November 20, 2026. Also, the DBMS internal test is scheduled on November 22, 2026.",
+    "source_type": "text",
+    "expected_tasks": [
+      "Multiple Tasks"
+    ],
+    "expected_subjects": [
+      "DBMS",
+      "CN",
+      "AI",
+      "OS"
+    ],
+    "expected_categories": [
+      "assignment",
+      "examination"
+    ],
+    "expected_deadlines": [
+      "Varies"
+    ],
+    "expected_event_dates": [
+      "Varies"
+    ],
+    "expected_instructions": [
+      "Complete all activities"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_MULTI_002",
+    "announcement_text": "Submit the AI lab record by November 15, 2026. Prepare for the Machine Learning quiz on November 17, 2026. Project abstract submission is due November 25, 2026.",
+    "source_type": "text",
+    "expected_tasks": [
+      "Multiple Tasks"
+    ],
+    "expected_subjects": [
+      "DBMS",
+      "CN",
+      "AI",
+      "OS"
+    ],
+    "expected_categories": [
+      "assignment",
+      "examination"
+    ],
+    "expected_deadlines": [
+      "Varies"
+    ],
+    "expected_event_dates": [
+      "Varies"
+    ],
+    "expected_instructions": [
+      "Complete all activities"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_MULTI_003",
+    "announcement_text": "Operating Systems assignment is due on November 14, 2026. The OS lab viva will be conducted on November 19, 2026.",
+    "source_type": "text",
+    "expected_tasks": [
+      "Multiple Tasks"
+    ],
+    "expected_subjects": [
+      "DBMS",
+      "CN",
+      "AI",
+      "OS"
+    ],
+    "expected_categories": [
+      "assignment",
+      "examination"
+    ],
+    "expected_deadlines": [
+      "Varies"
+    ],
+    "expected_event_dates": [
+      "Varies"
+    ],
+    "expected_instructions": [
+      "Complete all activities"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_MULTI_004",
+    "announcement_text": "Submit the Cloud Computing assignment on November 16, 2026 and attend the AWS certification workshop on November 21, 2026.",
+    "source_type": "text",
+    "expected_tasks": [
+      "Multiple Tasks"
+    ],
+    "expected_subjects": [
+      "DBMS",
+      "CN",
+      "AI",
+      "OS"
+    ],
+    "expected_categories": [
+      "assignment",
+      "examination"
+    ],
+    "expected_deadlines": [
+      "Varies"
+    ],
+    "expected_event_dates": [
+      "Varies"
+    ],
+    "expected_instructions": [
+      "Complete all activities"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_MULTI_005",
+    "announcement_text": "Final Year Project Phase 1 report due on November 24, 2026. Project presentation will be held on November 28, 2026.",
+    "source_type": "text",
+    "expected_tasks": [
+      "Multiple Tasks"
+    ],
+    "expected_subjects": [
+      "DBMS",
+      "CN",
+      "AI",
+      "OS"
+    ],
+    "expected_categories": [
+      "assignment",
+      "examination"
+    ],
+    "expected_deadlines": [
+      "Varies"
+    ],
+    "expected_event_dates": [
+      "Varies"
+    ],
+    "expected_instructions": [
+      "Complete all activities"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_MULTI_006",
+    "announcement_text": "Python mini-project code submission by November 15, 2026. Demonstration and viva on November 18, 2026.",
+    "source_type": "text",
+    "expected_tasks": [
+      "Multiple Tasks"
+    ],
+    "expected_subjects": [
+      "DBMS",
+      "CN",
+      "AI",
+      "OS"
+    ],
+    "expected_categories": [
+      "assignment",
+      "examination"
+    ],
+    "expected_deadlines": [
+      "Varies"
+    ],
+    "expected_event_dates": [
+      "Varies"
+    ],
+    "expected_instructions": [
+      "Complete all activities"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_MULTI_007",
+    "announcement_text": "Software Engineering UML diagrams assignment due on November 12, 2026. Internal exam scheduled on November 26, 2026.",
+    "source_type": "text",
+    "expected_tasks": [
+      "Multiple Tasks"
+    ],
+    "expected_subjects": [
+      "DBMS",
+      "CN",
+      "AI",
+      "OS"
+    ],
+    "expected_categories": [
+      "assignment",
+      "examination"
+    ],
+    "expected_deadlines": [
+      "Varies"
+    ],
+    "expected_event_dates": [
+      "Varies"
+    ],
+    "expected_instructions": [
+      "Complete all activities"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_MULTI_008",
+    "announcement_text": "Computer Networks lab submission on November 16, 2026. CN theory test on November 23, 2026.",
+    "source_type": "text",
+    "expected_tasks": [
+      "Multiple Tasks"
+    ],
+    "expected_subjects": [
+      "DBMS",
+      "CN",
+      "AI",
+      "OS"
+    ],
+    "expected_categories": [
+      "assignment",
+      "examination"
+    ],
+    "expected_deadlines": [
+      "Varies"
+    ],
+    "expected_event_dates": [
+      "Varies"
+    ],
+    "expected_instructions": [
+      "Complete all activities"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_MULTI_009",
+    "announcement_text": "Submit AI research paper summary on November 19, 2026. The robotics seminar will take place on November 27, 2026.",
+    "source_type": "text",
+    "expected_tasks": [
+      "Multiple Tasks"
+    ],
+    "expected_subjects": [
+      "DBMS",
+      "CN",
+      "AI",
+      "OS"
+    ],
+    "expected_categories": [
+      "assignment",
+      "examination"
+    ],
+    "expected_deadlines": [
+      "Varies"
+    ],
+    "expected_event_dates": [
+      "Varies"
+    ],
+    "expected_instructions": [
+      "Complete all activities"
+    ],
+    "ambiguity_status": false
+  },
+  {
+    "announcement_id": "CAAD_MULTI_010",
+    "announcement_text": "DBMS indexing assignment is due on November 17, 2026. Final lab exam will be held on November 29, 2026.",
+    "source_type": "text",
+    "expected_tasks": [
+      "Multiple Tasks"
+    ],
+    "expected_subjects": [
+      "DBMS",
+      "CN",
+      "AI",
+      "OS"
+    ],
+    "expected_categories": [
+      "assignment",
+      "examination"
+    ],
+    "expected_deadlines": [
+      "Varies"
+    ],
+    "expected_event_dates": [
+      "Varies"
+    ],
+    "expected_instructions": [
+      "Complete all activities"
+    ],
+    "ambiguity_status": false
+  }
+]
